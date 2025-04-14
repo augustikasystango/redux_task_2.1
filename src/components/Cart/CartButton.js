@@ -14,7 +14,7 @@ const CartButton = (props) => {
       <span>My Cart</span>
       <span className={classes.badge}>{cartQuantity}</span>
     </button>
-  );
+  ); 
 };
 
 export default CartButton;
