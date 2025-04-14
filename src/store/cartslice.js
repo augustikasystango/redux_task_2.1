@@ -6,7 +6,6 @@ const cartslice = createSlice({
     name: 'cart',
     initialState: {
         items: [],
-      
         totalQuantity: 0,
 
     },
